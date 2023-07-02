@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2dArr", "2dArr\2dArr.csproj", "{B1CA138C-3894-4CF8-A135-1ABAE0B96280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1CA138C-3894-4CF8-A135-1ABAE0B96280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CA138C-3894-4CF8-A135-1ABAE0B96280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CA138C-3894-4CF8-A135-1ABAE0B96280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CA138C-3894-4CF8-A135-1ABAE0B96280}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38AF3957-ADB0-4605-A7CA-F1FEAD35BB42}
+	EndGlobalSection
+EndGlobal
